@@ -2,7 +2,7 @@ import pandas as pd
 from openpyxl import load_workbook
 from datetime import datetime
 
-# Excel file path
+# Excel file path. - Revised comments 
 EXCEL_PATH = r"C:\Users\csp\TO DO\To do list.xlsx"
 
 # ── READ FUNCTIONS ──────────────────────────────────────────────
